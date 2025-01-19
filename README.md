@@ -1,26 +1,26 @@
 # Projekt_EMP
 Ustvarjanje mobilna aplikacija za predmet Elektronsko in mobilno poslovanje ali kratica EMP.
 
-# **Priporočila za televizijske serije**
+# **Štetje korakov do doseženega cilja**
 
 Član skupine:
 - Drejc Marolt, 63220206
 
 ## Kratek opis projekta
 
-Mobilna aplikacija bo prikazana seznam televizijskih serij, da bodo lahko gledali, kateri so najbolj priljubljeni.
+Mobilna aplikacija bo predstavljal prehoditev korakov, ki bodo prehodili do namestitvenega število korakov in možnost za ogled nazaj, koliko korakov so prehodili.
 
 Ogrodje in razvojno okolje:
 - Android Studio,
 - Kotlin.
 
 Seznam funkcionalnosti:
-- pregledovanje televizijskih serij na podlagih izbranih kriterijev, med drugim na podlagi žanra, letnice izida, opis serije, itd. ,
-- ustvarjanje komentarjev na določenih televizijskih serij,
-- ocenjevanje na določenih televizijskih serij od 1 do 10.
+- namestitev število korakov, ki bodo dosegli število korakov do doseženega cilja ,
+- pogledovanje za nazaj v zgodovino doseženih ciljev, pri katerem so prekorakali,
+- pogledovanje, koliko trenutnih korakov so prekorakali.
 
 Seznam primerov uporabe:
-- klikanje na zvezdico na televizijko serijo na 6,
-- ustvarjanje komentarje na televizijsko serijo "Dobra serija",
-- odpiranje zavihek na televizijsko serijo na zavihku "Opis serije".
+- namestili bodo 10000 korakov, ki želijo doseči do doseženega cilja,
+- pogledali za nazaj v zgodovino doseženih ciljev, pri katerem so prekorakali 20000 korakov v dne 14.12.2024,
+- pogledali bodo, koliko trenutnih korakov so prekorakali in vidijo, da so prekorakali 9000 od 10000 korakov.
 
